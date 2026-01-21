@@ -18,15 +18,15 @@ This Arduino project measures distance using an ultrasonic sensor and displays t
 
 🔌Wiring Instructions
     Ultrasonic Sensor:
-       VCC → 5V
-       GND → GND
-       Trig → Pin 3
-       Echo → Pin 4
+      * VCC → 5V
+      * GND → GND
+      * Trig → Pin 3
+      * Echo → Pin 4
     I2C LCD:
-       VCC → 5V
-       GND → GND
-       SDA → A4
-       SCL → A5
+      * VCC → 5V
+      * GND → GND
+      * SDA → A4
+      * SCL → A5
 
 
 📦Library Dependencies
